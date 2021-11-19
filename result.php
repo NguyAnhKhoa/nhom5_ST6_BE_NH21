@@ -276,7 +276,7 @@
 							</div>
 							<!-- /product -->
 							<?php
-							endforeach;
+								endforeach;
 							endif
 							?>
 
